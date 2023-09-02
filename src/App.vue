@@ -1,6 +1,6 @@
 <template>
   <div class="bg-blue-500 p-4">
-    <h1 class="text-2xl text-white">SIGISI ANJING ppk</h1>
+    <h1 class="text-2xl text-white">SIGISI ANJING ppk halo</h1>
   </div>
 </template>
 
